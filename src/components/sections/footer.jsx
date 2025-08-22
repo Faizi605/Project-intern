@@ -1,5 +1,5 @@
 import { Button } from '@ui'
-import { companyList, support } from "@constants/Logo"
+import { companyList, support } from "@constants"
 function Footer() {
     return (
         <div>

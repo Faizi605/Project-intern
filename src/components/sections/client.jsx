@@ -1,4 +1,4 @@
-import { logoClient } from "@constants/logo"
+import { logoClient } from "@constants"
 function Client() {
     return (
         <div className="py-6">
