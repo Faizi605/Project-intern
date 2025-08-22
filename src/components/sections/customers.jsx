@@ -1,4 +1,4 @@
-import { logoClient } from "@constants"
+import { logoClient } from "@constants/logo"
 function Customers() {
     return (
         <div className=" lg:flex justify-center items-center gap-8 bg-navbg py-8 px-6">
